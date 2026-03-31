@@ -46,9 +46,16 @@
 
 * Критичные
 
-<video src="https://github.com/Darkness1853/Pictures/blob/main/TEST/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%202026-03-31%20154909.mp4?raw=true" controls width="600"></video>
 
-<video src="https://github.com/Darkness1853/Pictures/blob/main/TEST/%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%202026-03-31%20154956.mp4" controls width="600"></video>
+
+https://github.com/user-attachments/assets/4c0400b7-6501-4c79-b7e5-b69b1749f7d4
+Произвёл тест на устойчивость при высоких количествах нажатий в секунду
+
+
+https://github.com/user-attachments/assets/de70843d-578e-453a-9aaf-47d75e8aced5
+Программа после получения ошибок не может правильно закрыться. Приходится убивать процесс.
+
+
 
 * Не критичные
 
