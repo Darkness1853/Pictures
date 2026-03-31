@@ -47,10 +47,8 @@
 * Критичные
 
 
-
-https://github.com/user-attachments/assets/4c0400b7-6501-4c79-b7e5-b69b1749f7d4
 Произвёл тест на устойчивость при высоких количествах нажатий в секунду
-
+<video src="https://github.com/user-attachments/assets/4c0400b7-6501-4c79-b7e5-b69b1749f7d4" controls width="600"></video>
 
 https://github.com/user-attachments/assets/de70843d-578e-453a-9aaf-47d75e8aced5
 Программа после получения ошибок не может правильно закрыться. Приходится убивать процесс.
