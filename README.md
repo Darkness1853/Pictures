@@ -1,13 +1,18 @@
-### Contributors
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
+  
+  <a href="https://github.com/автор1" style="display: inline-block; margin-right: 15px; text-align: center; text-decoration: none;">
+    <img src="https://github.com/автор1.png" width="80" height="80" style="border-radius: 50%; object-fit: cover; display: block;">
+    <span style="display: block; margin-top: 8px; color: #0366d6;">Автор 1</span>
+  </a>
+  
+  <a href="https://github.com/автор2" style="display: inline-block; margin-right: 15px; text-align: center; text-decoration: none;">
+    <img src="https://github.com/автор2.png" width="80" height="80" style="border-radius: 50%; object-fit: cover; display: block;">
+    <span style="display: block; margin-top: 8px; color: #0366d6;">Автор 2</span>
+  </a>
+  
+  <a href="https://github.com/автор3" style="display: inline-block; margin-right: 15px; text-align: center; text-decoration: none;">
+    <img src="https://github.com/автор3.png" width="80" height="80" style="border-radius: 50%; object-fit: cover; display: block;">
+    <span style="display: block; margin-top: 8px; color: #0366d6;">Автор 3</span>
+  </a>
 
-<table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Darkness1853>
-            <img src=https://avatars.githubusercontent.com/u/180766641?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Пётр Нгуен/>
-            <br />
-            <sub style="font-size:14px"><b>Пётр Нгуен</b></sub>
-        </a>
-    </td>
-</tr>
-</table>
+</div>
