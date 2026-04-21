@@ -1,18 +1,8 @@
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Darkness1853">
-          <img src="https://github.com/Darkness1853.png" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" alt=""/>
-          <br /><sub><b>Darkness1853</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/автор2">
-          <img src="https://github.com/автор2.png" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" alt=""/>
-          <br /><sub><b>Имя Автора 2</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Darkness1853">
+    <img src="https://gitstrength.netlify.app/api/card-with-avatar?username=Darkness1853" width="120" alt="Darkness1853"/>
+  </a>
+  <a href="https://github.com/автор2">
+    <img src="https://gitstrength.netlify.app/api/card-with-avatar?username=автор2" width="120" alt="Имя Автора 2"/>
+  </a>
 </div>
