@@ -1,21 +1,23 @@
-name: Update Contributors 
+name: Update Contributors
 
 on:
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   contrib-readme:
     runs-on: ubuntu-latest
-    name: Update contributors 
+    name: Update contributors
     permissions:
       contents: write
       pull-requests: write
     steps:
-      - name: Contribute List
-        uses: akhilmhdh/contributors-readme-action@v2.3.11
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v2
+      - uses: BobAnkh/add-contributors@master
         with:
-          commit_message: "chore: update contributors list [skip ci]"
-          committer_username: ${{ github.actor }}
-          committer_email: "${{ github.actor }}@users.noreply.github.com"
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CONTRIBUTOR: '## Участники'
+          COLUMN_PER_ROW: '6'
+          IMG_WIDTH: '100'
+          AVATAR_SHAPE: 'round'     
+          COMMIT_MESSAGE: 'chore: update contributors list [skip ci]'
+          PATH: '/README.md'
