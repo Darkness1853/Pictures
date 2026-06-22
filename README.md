@@ -1,22 +1,20 @@
 ![Схема подключения](https://github.com/user-attachments/assets/0af85be7-3b2f-4274-9cc3-78446ddd34e8)
 
-<style>
-    img[src*="avatars.githubusercontent.com"] {
-        border-radius: 50% !important;
-    }
-</style>
-
-## Участники
-
 <table>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Darkness1853>
-            <img src=https://avatars.githubusercontent.com/u/180766641?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Пётр Нгуен/>
-            <br />
-            <sub style="font-size:14px"><b>Пётр Нгуен</b></sub>
-        </a>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Darkness1853">
+        <img src="https://avatars.githubusercontent.com/Darkness1853" width="80" height="80" /><br />
+        <sub><b>Darkness1853</b></sub>
+      </a>
     </td>
-</tr>
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://avatars.githubusercontent.com/username2" width="80" height="80" /><br />
+        <sub><b>Username2</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 </table>
 
