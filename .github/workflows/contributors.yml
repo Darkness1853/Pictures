@@ -18,3 +18,4 @@ jobs:
         with:
           commit_message: "chore: update contributors list [skip ci]"
           committer_username: ${{ github.actor }}
+          committer_email: "${{ github.actor }}@users.noreply.github.com"
