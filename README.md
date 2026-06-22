@@ -1,3 +1,15 @@
 ![Схема подключения](https://github.com/user-attachments/assets/0af85be7-3b2f-4274-9cc3-78446ddd34e8)
 
 ## Участники
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Darkness1853>
+            <img src=https://avatars.githubusercontent.com/u/180766641?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Пётр Нгуен/>
+            <br />
+            <sub style="font-size:14px"><b>Пётр Нгуен</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
